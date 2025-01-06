@@ -32,3 +32,9 @@ I am **Jannatul Lima**, a passionate **Web Developer** and **Python Enthusiast**
 
 ## 📊 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight)
+
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
