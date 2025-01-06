@@ -1,12 +1,13 @@
 # 👩‍💻 Jannatul Lima  
 
-Hi there! 👋 Welcome to my GitHub profile!  
+Hi there! 👋 
+Welcome to my GitHub profile!  
 I am **Jannatul Lima**, a passionate **Web Developer** and **Python Enthusiast** from Bangladesh.  
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently exploring **Full-Stack Web Development** and **AI Projects**  
+- 🌱 Currently exploring **Full-Stack Web Development** 
 - 👩‍🎓 Graduated from **Sylhet Government Polytechnic Institute**  
 - 💼 Building cool projects like **Portfolio Websites**, **Full Stack website**, **Inventory Management System (IMS) project**, **Students Management System project**,  **E-commerce website**, **Responsive restaurant website **, **Data Dashboards**, and **Interactive Games**  
 - 💡 Interested in **Problem Solving**, **Data Analysis**, and **Machine Learning**  
