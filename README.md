@@ -16,9 +16,9 @@ I am **Jannatul Lima**, a passionate **Web Developer** and **Python Enthusiast**
 
 ## 🛠️ Skills  
 - **Programming Languages**: Python, JavaScript , Java 
-- **Frontend Development**: HTML, CSS, Bootstrap, Tailwind CSS  
+- **Frontend Development**: HTML5, CSS3, Bootstrap, Tailwind CSS, react.js
 - **Backend Frameworks**: Django  
-- **Tools & Platforms**: Figma, Pandas, Git  
+- **Tools & Platforms**: Figma, Pandas, Git & Github  
 
 ---
 
