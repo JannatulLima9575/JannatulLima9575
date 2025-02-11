@@ -27,7 +27,7 @@ I am **Jannatul Lima**, a passionate **Web Developer** and **Python Enthusiast**
 - 🌐 Website: [www.jannatul-lima.dev](https://example.com)  
 - 💼 LinkedIn: [linkedin.com/in/jannatul-lima](https://linkedin.com/in/jannatul-lima)  
 - 🖤 GitHub: [github.com/JannatulLima9575](https://github.com/JannatulLima9575)  
-- 📷 Instagram: [instagram.com/jannatul-lima](https://instagram.com/jannatul-lima)  
+- 📷 Instagram: [instagram.com/jannatul-lima](https://www.instagram.com/roselune_1675/)  
 
 ---
 
