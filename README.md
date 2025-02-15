@@ -33,5 +33,4 @@ I am **Jannatul Lima**, a passionate **Web Developer** and **Python Enthusiast**
 
 ## 📊 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical)
