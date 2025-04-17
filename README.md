@@ -9,7 +9,8 @@ I am **Jannatul Lima**, a passionate **Web Developer** and **Python Enthusiast**
 ## 🚀 About Me  
 
 - 🌱 Currently exploring **Full-Stack Web Development**  
-- 👩‍🎓 Graduated from **Sylhet Government Polytechnic Institute**  
+- 👩‍🎓 Graduated from **Sylhet Government Polytechnic Institute**
+- 👩‍🎓 Studies at **Sylhet International University** 
 - 💼 Building cool projects like **Portfolio Websites**, **Full Stack Websites**, **Inventory Management System (IMS) project**, **Students Management System project**, **E-commerce website**, **Responsive Restaurant Website**, **Data Dashboards**, and **Interactive Games**  
 - 💡 Interested in **Problem Solving**, **Data Analysis**, and **Machine Learning**  
 
