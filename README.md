@@ -1,38 +1,67 @@
-# 👩‍💻 Jannatul Lima  
+<h1 align="center">👋 Hi, I'm Jannatul Lima</h1>
 
-Hi there! 👋  
-Welcome to my GitHub profile!  
-I am **Jannatul Lima**, a passionate **Web Developer** and **Python Enthusiast** from Bangladesh.
-
----
-
-## 🚀 About Me  
-
-- 🌱 Currently exploring **Full-Stack Web Development**  
-- 👩‍🎓 Graduated from **Sylhet Government Polytechnic Institute**
-- 👩‍🎓 Studies at **Sylhet International University** 
-- 💼 Building cool projects like **Portfolio Websites**, **Full Stack Websites**, **Inventory Management System (IMS) project**, **Students Management System project**, **E-commerce website**, **Responsive Restaurant Website**, **Data Dashboards**, and **Interactive Games**  
-- 💡 Interested in **Problem Solving**, **Data Analysis**, and **Machine Learning**  
+<p align="center">
+  💻 Full-Stack Web Developer | 👩‍🎓 CS Student | 🔍 Problem Solver <br/>
+  🌍 Based in Bangladesh | 🌐 Passionate about Tech, Code, and Logic
+</p>
 
 ---
 
-## 🛠️ Skills & Experiance: 
-- **Programming Languages**: Python, JavaScript, C, C++, Java, ES6  
-- **Frontend Development**: HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React.js, Next.js
-- **Backend Frameworks**: Django  
-- **Tools & Platforms**: Figma, Pandas, Git & GitHub  
+## 🚀 About Me
+
+- 🎓 Studying at **Sylhet International University**
+- 👩‍🎓 Diploma Graduate from **Sylhet Government Polytechnic Institute**
+- 🧠 Always eager to learn new technologies and solve real-world problems
+- 💼 I enjoy working on:
+  - Full Stack Web Applications (MERN)
+  - Inventory & Student Management Systems
+  - Data Dashboards & Interactive Games
+  - Portfolio & E-Commerce Websites
 
 ---
 
-## 🌐 Connect with Me  
-- 📧 Email: [limajannat1675@gmail.com](mailto:limajannat1675@gmail.com)  
-- 🌐 Website: [www.jannatul-lima.dev](https://example.com)  
-- 💼 LinkedIn: [www.linkedin.com/in/jannatul-lima-985a25363
-- 🖤 GitHub: [github.com/JannatulLima9575](https://github.com/JannatulLima9575)  
-- 📷 Instagram: [instagram.com/jannatul-lima](https://www.instagram.com/roselune_1675/)  
+## 🛠️ Tech Stack & Skills
+
+### 💻 Languages  
+`C` `C++` `JavaScript` `Python` `Java` `ES6`
+
+### 🌐 Frontend  
+`HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `React.js`
+
+### 🧩 Backend & DB  
+`Node.js` `Express.js` `MongoDB` `Firebase`
+
+### 🚀 Full Stack  
+`MERN Stack` (MongoDB, Express, React, Node)
+
+### 🔧 Tools & Platforms  
+`Git` `GitHub` `Vercel` `Netlify` `MongoDB Atlas` `Firebase Hosting` `Figma`
 
 ---
 
-## 📊 My GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical)     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight)  
- 
+## 🎯 Competitive Programming
+
+I love solving algorithmic and logical problems, and I’m actively improving my skills through various platforms.
+
+- 🧠 Languages I use: **C, C++, Python, JavaScript**
+- 🔗 Codeforces: [roselune_1675](https://codeforces.com/profile/roselune_1675)  
+- 🔗 VJudge: [roselune_1675](https://vjudge.net/user/roselune_1675)
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [limajannat1675@gmail.com](mailto:limajannat1675@gmail.com)
+- 🌐 Website: [www.jannatul-lima.dev](https://example.com)
+- 💼 LinkedIn: [linkedin.com/in/jannatul-lima-985a25363](https://www.linkedin.com/in/jannatul-lima-985a25363)
+- 🖤 GitHub: [github.com/JannatulLima9575](https://github.com/JannatulLima9575)
+- 📷 Instagram: [@roselune_1675](https://www.instagram.com/roselune_1675/)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight" />
+</p>
