@@ -11,8 +11,8 @@
 
 - 🎓 Studying at **Sylhet International University**
 - 👩‍🎓 Diploma Graduate from **Sylhet Government Polytechnic Institute**
-- 🧠 Always eager to learn new technologies and solve real-world problems
-- 💼 I enjoy working on:
+- 🔥 Passionate about **Web Development** and **Competitive Programming**
+- 💼 I enjoy building:
   - Full Stack Web Applications (MERN)
   - Inventory & Student Management Systems
   - Data Dashboards & Interactive Games
@@ -22,20 +22,20 @@
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Languages  
+### 💻 Programming Languages  
 `C` `C++` `JavaScript` `Python` `Java` `ES6`
 
-### 🌐 Frontend  
+### 🌐 Frontend Development  
 `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `React.js`
 
-### 🧩 Backend & DB  
+### 🧩 Backend & Database  
 `Node.js` `Express.js` `MongoDB` `Firebase`
 
 ### 🚀 Full Stack  
-`MERN Stack` (MongoDB, Express, React, Node)
+`MERN Stack` (MongoDB, Express.js, React.js, Node.js)
 
 ### 🔧 Tools & Platforms  
-`Git` `GitHub` `Vercel` `Netlify` `MongoDB Atlas` `Firebase Hosting` `Figma`
+`Git` `GitHub` `Vercel` `Netlify` `Firebase Hosting` `MongoDB Atlas` `Figma`
 
 ---
 
@@ -44,8 +44,9 @@
 I love solving algorithmic and logical problems, and I’m actively improving my skills through various platforms.
 
 - 🧠 Languages I use: **C, C++, Python, JavaScript**
-- 🔗 Codeforces: [roselune_1675](https://codeforces.com/profile/roselune_1675)  
-- 🔗 VJudge: [roselune_1675](https://vjudge.net/user/roselune_1675)
+- 🏆 Platforms:
+  - 🔗 Codeforces: [roselune_1675](https://codeforces.com/profile/roselune_1675)
+  - 🔗 VJudge: [roselune_1675](https://vjudge.net/user/roselune_1675)
 
 ---
 
@@ -59,7 +60,7 @@ I love solving algorithmic and logical problems, and I’m actively improving my
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical" />
