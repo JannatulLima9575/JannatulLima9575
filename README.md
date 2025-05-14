@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Studying at **Sylhet International University**
-- 👩‍🎓 Diploma Graduate from **Sylhet Government Polytechnic Institute**
+- 🎓 Studying BSc **Computer Science & Engineering** at **Sylhet International University**
+- 👩‍🎓 Diploma Graduate in **CSE** from **Sylhet Government Polytechnic Institute**
 - 🔥 Passionate about **Web Development** and **Competitive Programming**
 - 💼 I enjoy building:
   - Full Stack Web Applications (MERN)
