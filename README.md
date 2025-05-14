@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Studying BSc **Computer Science & Engineering** at **Sylhet International University**
+- 🎓 Studying BSc at **Sylhet International University**
 - 👩‍🎓 Diploma Graduate in **CSE** from **Sylhet Government Polytechnic Institute**
 - 🔥 Passionate about **Web Development** and **Competitive Programming**
 - 💼 I enjoy building:
