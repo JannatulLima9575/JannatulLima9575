@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Jannatul Lima</h1>
 
 <p align="center">
-  💻 Full-Stack Web Developer | 👩‍🎓 CS Student | 🔍 Problem Solver <br/>
+  💻 Full-Stack Web Developer | 👩‍🎓 CSE Student | 🔍 Problem Solver <br/>
   🌍 Based in Bangladesh | 🌐 Passionate about Tech, Code, and Logic
 </p>
 
@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages  
-`C` `C++` `JavaScript` `Python` `Java` `ES6`
+`C` `C++` `JavaScript` `Python` `Java`
 
 ### 🌐 Frontend Development  
 `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `React.js`
