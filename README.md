@@ -54,7 +54,7 @@ I love solving algorithmic and logical problems, and I’m actively improving my
 
 - 📧 Email: [limajannat1675@gmail.com](mailto:limajannat1675@gmail.com)
 - 🌐 Website: [www.jannatul-lima.dev](https://example.com)
-- 💼 LinkedIn: [linkedin.com/in/jannatul-lima-985a25363](https://www.linkedin.com/in/jannatul-lima-985a25363)
+- 💼 LinkedIn: [linkedin.com/in/jannatullima75](https://www.linkedin.com/in/jannatullima75)
 - 🖤 GitHub: [github.com/JannatulLima9575](https://github.com/JannatulLima9575)
 - 📷 Instagram: [@roselune_1675](https://www.instagram.com/roselune_1675/)
 
