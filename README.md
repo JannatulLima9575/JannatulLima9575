@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Jannatul Lima</h1>
 
 <p align="center">
-  💻 Full-Stack Web Developer | 👩‍🎓 CSE Student | 🔍 Problem Solver <br/>
+  💻 MERN-Stack Web Developer | 👩‍🎓 CSE Student | 🔍 Problem Solver <br/>
   🌍 Based in Bangladesh | 🌐 Passionate about Tech, Code, and Logic
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Studying BSc at **Sylhet International University**
+- 🎓 Studying **BSc** in **CSE** at **Sylhet International University**
 - 👩‍🎓 Diploma Graduate in **CSE** from **Sylhet Government Polytechnic Institute**
 - 🔥 Passionate about **Web Development** and **Competitive Programming**
 - 💼 I enjoy building:
@@ -26,7 +26,7 @@
 `C` `C++` `JavaScript` `Python` `Java`
 
 ### 🌐 Frontend Development  
-`HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `React.js`
+`HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `React.js` `JavaScript`
 
 ### 🧩 Backend & Database  
 `Node.js` `Express.js` `MongoDB` `Firebase`
