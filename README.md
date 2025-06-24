@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" />
+  <img src="https://i.ibb.co/7JbqYhHZ/Fb-cover.png" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Jannatul Lima</h1>
