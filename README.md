@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Jannatul Lima</h1>
 
 <p align="center">
@@ -20,22 +24,50 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 💼 Currently Working On
 
-### 💻 Programming Languages  
-`C` `C++` `JavaScript` `Python` `Java`
+- 🔭 A **Tourism Website** with React and Firebase  
+- 🌱 Exploring **Next.js**, **MongoDB Atlas**, and **Framer Motion**
+- ✨ Enhancing design skills using **Figma**
+
+---
+
+## 🛠️ My Tech Stack
+
+### 💻 Languages & Scripting  
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 ### 🌐 Frontend Development  
-`HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `React.js` `JavaScript`
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 
 ### 🧩 Backend & Database  
-`Node.js` `Express.js` `MongoDB` `Firebase`
-
-### 🚀 Full Stack  
-`MERN Stack` (MongoDB, Express.js, React.js, Node.js)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
 ### 🔧 Tools & Platforms  
-`Git` `GitHub` `Vercel` `Netlify` `Firebase Hosting` `MongoDB Atlas` `Figma`
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
@@ -50,19 +82,20 @@ I love solving algorithmic and logical problems, and I’m actively improving my
 
 ---
 
-## 📫 Connect with Me
-
-- 📧 Email: [limajannat1675@gmail.com](mailto:limajannat1675@gmail.com)
-- 🌐 Website: [www.jannatul-lima.dev](https://example.com)
-- 💼 LinkedIn: [linkedin.com/in/jannatullima75](https://www.linkedin.com/in/jannatullima75)
-- 🖤 GitHub: [github.com/JannatulLima9575](https://github.com/JannatulLima9575)
-- 📷 Instagram: [@roselune_1675](https://www.instagram.com/roselune_1675/)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight" />
-</p>
+- 📧 Email: [limajannat1675@gmail.com](mailto:limajannat1675@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/jannatullima75](https://www.linkedin.com/in/jannatullima75)
+- 🖤 GitHub: [github.com/JannatulLima9575](https://github.com/JannatulLima9575)
+
+---
+
