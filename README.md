@@ -1,5 +1,5 @@
 <p align="center" h-full>
-  <img src="https://i.ibb.co/7JbqYhHZ/Fb-cover.png"  style="width:100%; height:auto; />
+  <img src="https://i.ibb.co/7JbqYhHZ/Fb-cover.png"  style="width:100%; height:100%; />
 </p>
 
 <h1 align="center">👋 Hi, I'm Jannatul Lima</h1>
