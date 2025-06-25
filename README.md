@@ -16,8 +16,8 @@
     <td width="50%">
       <h3>🧕 About Me</h3>
       <p>
-        I have completed a 4-year Diploma in <b>**Computer Science and Engineering (CSE)** </b> from <b>**Sylhet Government Polytechnic Institute (SPI)**</b>.
-        Currently, I am pursuing my <b>**BSc**</b> in <b>**CSE**</b> at <b>**Sylhet International University (SIU)**</b>.
+        I have completed a 4-year Diploma in <b>Computer Science and Engineering (CSE) </b> from <b>Sylhet Government Polytechnic Institute (SPI)</b>.
+        Currently, I am pursuing my <b>BSc</b> in <b>CSE</b> at <b>Sylhet International University (SIU)</b>.
         I am a <b>MERN Stack Web Developer</b> with a strong interest in <b>problem solving</b>. 
         I enjoy learning new technologies and working on real-life projects.
       </p>
