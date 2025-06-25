@@ -1,40 +1,33 @@
-<p align="center" h-full>
-  <img src="https://i.ibb.co/7JbqYhHZ/Fb-cover.png"  style="width:100%; height:100%; />
+<p align="center">
+  <img src="https://i.ibb.co/7JbqYhZ/Fb-cover.png" style="width:100%; height:auto;" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Jannatul Lima</h1>
+<h1 align="center" style="font-size: 36px;">👋 Hi, I'm Jannatul Lima</h1>
 
 <p align="center">
-  💻 MERN-Stack Web Developer | 👩‍🎓 CSE Student | 🔍 Problem Solver <br/>
-  🌍 Based in Bangladesh | 🌐 Passionate about Tech, Code, and Logic
+  💻 MERN-Stack Web Developer | 👩‍🎓 CSE Student <br/>
+  📍 Sylhet, Bangladesh | 📧 limajannat1675@gmail.com
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧕 About Me
 
-- 🎓 Studying **BSc** in **CSE** at **Sylhet International University**
-- 👩‍🎓 Diploma Graduate in **CSE** from **Sylhet Government Polytechnic Institute**
-- 🔥 Passionate about **Web Development** and **Competitive Programming**
-- 💼 I enjoy building:
-  - Full Stack Web Applications (MERN)
-  - Inventory & Student Management Systems
-  - Data Dashboards & Interactive Games
-  - Portfolio & E-Commerce Websites
+I have completed a 4-year Diploma in **Computer Science and Engineering (CSE)** from **Sylhet Government Polytechnic Institute (SPI)**. Currently, I am pursuing my **BSc** in **CSE** at **Sylhet International University (SIU)**. I am a **MERN Stack** Web Developer with a strong interest in problem solving. I enjoy learning new technologies and working on real-life projects.
 
 ---
 
-## 💼 Currently Working On
+## 🚀 What I’m Currently Doing
 
-- 🔭 A **Tourism Website** with React and Firebase  
-- 🌱 Exploring **Next.js**, **MongoDB Atlas**, and **Framer Motion**
-- ✨ Enhancing design skills using **Figma**
+- 🔭 Working on a **Tourism Website** using **React** and **Firebase**
+- 🌱 Learning **Next.js**, **Framer Motion**, and **MongoDB Atlas**
+- 🎨 Improving UI/UX using **Figma**
 
 ---
 
 ## 🛠️ My Tech Stack
 
-### 💻 Languages & Scripting  
+### 💻 Programming Languages  
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -71,14 +64,13 @@
 
 ---
 
-## 🎯 Competitive Programming
+## 🧠 Competitive Programming
 
-I love solving algorithmic and logical problems, and I’m actively improving my skills through various platforms.
+I enjoy solving algorithmic problems and sharpening my logical thinking.  
+Languages I use: **C, C++, Python, JavaScript**
 
-- 🧠 Languages I use: **C, C++, Python, JavaScript**
-- 🏆 Platforms:
-  - 🔗 Codeforces: [roselune_1675](https://codeforces.com/profile/roselune_1675)
-  - 🔗 VJudge: [roselune_1675](https://vjudge.net/user/roselune_1675)
+- 🔗 Codeforces: [roselune_1675](https://codeforces.com/profile/roselune_1675)  
+- 🔗 VJudge: [roselune_1675](https://vjudge.net/user/roselune_1675)
 
 ---
 
@@ -91,11 +83,12 @@ I love solving algorithmic and logical problems, and I’m actively improving my
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let’s Connect
 
-- 📧 Email: [limajannat1675@gmail.com](mailto:limajannat1675@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/jannatullima75](https://www.linkedin.com/in/jannatullima75)
-- 🖤 GitHub: [github.com/JannatulLima9575](https://github.com/JannatulLima9575)
+- 📍 **Location:** Sylhet, Bangladesh  
+- 📧 **Email:** [limajannat1675@gmail.com](mailto:limajannat1675@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/jannatullima75](https://www.linkedin.com/in/jannatullima75)  
+- 🖤 **GitHub:** [github.com/JannatulLima9575](https://github.com/JannatulLima9575)
 
 ---
 
