@@ -23,7 +23,7 @@
       </p>
     </td>
     <td width="50%" align="center">
-     <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300px" />
+     <img src="https://i.ibb.co/8LVT3qYT/Animation-1750842971292.gif" width="300px" />
       <br/>
       <i>(Coding is my happy place 😊)</i>
     </td>
@@ -93,7 +93,6 @@ Languages I use: **C, C++, Python, JavaScript**
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight" />
 </p>
 
