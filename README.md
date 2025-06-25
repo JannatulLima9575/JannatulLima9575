@@ -92,7 +92,7 @@ Languages I use: **C, C++, Python, JavaScript**
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical" style="width:100%; height:auto;" />
   <img src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight" />
 </p>
 
