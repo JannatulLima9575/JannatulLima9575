@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.ibb.co/7JbqYhZ/Fb-cover.png](https://i.ibb.co/7JbqYhHZ/Fb-cover.png)" style="width:100%; height:auto;" />
+  <img src="https://i.ibb.co/7JbqYhHZ/Fb-cover.png" style="width:100%; height:auto;" />
 </p>
 
 <h1 align="center" style="font-size: 36px;">👋 Hi, I'm Jannatul Lima</h1>
@@ -16,14 +16,14 @@
     <td width="50%">
       <h3>🧕 About Me</h3>
       <p>
-        I have completed a 4-year Diploma in <b>Computer Science and Engineering (CSE)</b> from <b>Sylhet Government Polytechnic Institute (SPI)</b>.
-        Currently, I am pursuing my <b>BSc</b> in <b>CSE</b> at <b>Sylhet International University (SIU)</b>.
+        I have completed a 4-year Diploma in <b>**Computer Science and Engineering (CSE)** </b> from <b>**Sylhet Government Polytechnic Institute (SPI)**</b>.
+        Currently, I am pursuing my <b>**BSc**</b> in <b>**CSE**</b> at <b>**Sylhet International University (SIU)**</b>.
         I am a <b>MERN Stack Web Developer</b> with a strong interest in <b>problem solving</b>. 
         I enjoy learning new technologies and working on real-life projects.
       </p>
     </td>
     <td width="50%" align="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca269d9935d515442edc7b89b4.gif" width="300px" />
+     <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300px" />
       <br/>
       <i>(Coding is my happy place 😊)</i>
     </td>
