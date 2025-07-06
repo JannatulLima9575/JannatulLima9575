@@ -102,7 +102,7 @@ Languages I use: **C, C++, Python, JavaScript**
 
 - 📍 **Location:** Sylhet, Bangladesh  
 - 📧 **Email:** [limajannat1675@gmail.com](mailto:limajannat1675@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/jannatullima75](https://www.linkedin.com/in/jannatullima75)  
+- 💼 **LinkedIn:** [linkedin.com/in/jannatullima](https://www.linkedin.com/in/jannatullima)  
 - 🖤 **GitHub:** [github.com/JannatulLima9575](https://github.com/JannatulLima9575)
 
 ---
