@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://i.ibb.co/7JbqYhHZ/Fb-cover.png" style="width:100%; height:100%;" />
+  <img src="https://i.ibb.co.com/350WnJ0q/Github-cover.png" style="width:100%; height:100%;" />
 </p>
 
 <h1 align="center" style="font-size: 36px;">👋 Hi, I'm Jannatul Lima</h1>
 
 <p align="center">
-  💻 MERN-Stack Web Developer | 👩‍🎓 CSE Student <br/>
+  💻 Junior React Developer | 👩‍🎓 CSE Student <br/>
   📍 Sylhet, Bangladesh | 📧 limajannat1675@gmail.com
 </p>
 
@@ -18,7 +18,7 @@
       <p>
         I have completed a 4-year Diploma in <b>Computer Science and Engineering (CSE) </b> from <b>Sylhet Government Polytechnic Institute (SPI)</b>.
         Currently, I am pursuing my <b>BSc</b> in <b>CSE</b> at <b>Sylhet International University (SIU)</b>.
-        I am a <b>MERN Stack Web Developer</b> with a strong interest in <b>problem solving</b>. 
+        I am a <b>Junior Web Developer</b> with a strong interest in <b>problem solving</b>. 
         I enjoy learning new technologies and working on real-life projects.
       </p>
     </td>
@@ -102,7 +102,7 @@ Languages I use: **C, C++, Python, JavaScript**
 
 - 📍 **Location:** Sylhet, Bangladesh  
 - 📧 **Email:** [limajannat1675@gmail.com](mailto:limajannat1675@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/jannatullima](https://www.linkedin.com/in/jannatullima)  
+- 💼 **LinkedIn:** [linkedin.com/in/jannatullima86](https://www.linkedin.com/in/jannatullima86)  
 - 🖤 **GitHub:** [github.com/JannatulLima9575](https://github.com/JannatulLima9575)
 
 ---
