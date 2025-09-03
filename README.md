@@ -5,7 +5,7 @@
 <h1 align="center" style="font-size: 36px;">👋 Hi, I'm Jannatul Lima</h1>
 
 <p align="center">
-  💻 Junior React Developer | 👩‍🎓 CSE Student <br/>
+  💻 Junior Web Developer | 👩‍🎓 CSE Student <br/>
   📍 Sylhet, Bangladesh | 📧 limajannat1675@gmail.com
 </p>
 
