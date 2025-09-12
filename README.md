@@ -5,7 +5,7 @@
 <h1 align="center" style="font-size: 36px;">👋 Hi, I'm Jannatul Lima</h1>
 
 <p align="center">
-  💻 <b>Junior Web Developer</b> | 👩‍🎓 <b>CSE Student</b> <br/>
+  💻 <b>Junior Web Developer | 👩‍🎓 <b>CSE Student</b> <br/>
   📍 Sylhet, Bangladesh | 📧 <a href="mailto:limajannat1675@gmail.com">limajannat1675@gmail.com</a> <br/>
   🚀 Exploring <b>AI & Machine Learning</b>
 </p>
@@ -103,15 +103,10 @@ Languages I use: **C, C++, Python, JavaScript**
   <img src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight" />
 </p>
 
-## 📊 GitHub Stats In Graph
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JannatulLima9575&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JannatulLima9575&theme=radical&row=1&column=6" />
-</p>
 ---
 
 ## 📫 Let’s Connect
