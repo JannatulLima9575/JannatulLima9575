@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/350WnJ0q/Github-cover.png" style="width:100%; height:100%;" />
+  <img src="https://i.ibb.co.com/350WnJ0q/Github-cover.png" width="100%" />
 </p>
 
-<h1 align="center" style="font-size: 36px;">👋 Hi, I'm Jannatul Lima</h1>
+<h1 align="center">👋 Hi, I'm Jannatul Lima</h1>
 
 <p align="center">
-  💻 <b>Junior Web Developer | 👩‍🎓 <b>CSE Student</b> <br/>
-  📍 Sylhet, Bangladesh | 📧 <a href="mailto:limajannat1675@gmail.com">limajannat1675@gmail.com</a> <br/>
-  🚀 Exploring <b>AI & Machine Learning</b>
+  💻 **Junior Web Developer** | 👩‍🎓 **CSE Student** <br/> 
+  📍 Sylhet, Bangladesh | 🚀 Exploring **AI & Machine Learning**
 </p>
 
 <p align="center">
@@ -21,9 +20,9 @@
     <td width="50%">
       <h3>🧕 About Me</h3>
       <p>
-        I have completed a 4-year Diploma in <b>Computer Science and Engineering (CSE) </b> from <b>Sylhet Government Polytechnic Institute (SPI)</b>.
-        Currently, I am pursuing my <b>BSc</b> in <b>CSE</b> at <b>Sylhet International University (SIU)</b>.
-        I am a <b>Junior Web Developer</b> with a strong interest in <b>problem solving</b>. 
+        I have completed a 4-year Diploma in **Computer Science and Engineering (CSE)** from **Sylhet Government Polytechnic Institute (SPI)**.  
+        Currently, I am pursuing my **BSc** in **CSE** at **Sylhet International University (SIU)**.  
+        I am a **Junior Web Developer** with a strong interest in **problem solving**.  
         I enjoy learning new technologies and working on real-life projects.
       </p>
     </td>
@@ -35,14 +34,13 @@
   </tr>
 </table>
 
-
 ---
 
 ## 🚀 What I’m Currently Doing
 
-- 🔭 Working on a **NeuroDevs Angency Project** using **React/Next.js** and **MERN**
-- 🌱 Learning **ML** with **Python** **1 month Running** from **Phitron Al/ML** course
-- 🎨 Improving UI/UX using **Figma**
+- 🔭 Working on a **NeuroDevs Agency Project** using **React/Next.js** and **MERN**  
+- 🌱 Learning **ML** with **Python** (1 month running) from **Phitron AI/ML** course  
+- 🎨 Improving **UI/UX** using **Figma**
 
 ---
 
@@ -92,15 +90,18 @@
 I enjoy solving algorithmic problems and sharpening my logical thinking.  
 Languages I use: **C, C++, Python, JavaScript**
 
-- 🔗 Codeforces: [roselune_1675](https://codeforces.com/profile/roselune_1675)  
-- 🔗 VJudge: [roselune_1675](https://vjudge.net/user/roselune_1675)
+- 🔗 **Codeforces:** [roselune_1675](https://codeforces.com/profile/roselune_1675)  
+- 🔗 **VJudge:** [roselune_1675](https://vjudge.net/user/roselune_1675)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical" style="width:auto; height:100%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
@@ -115,6 +116,3 @@ Languages I use: **C, C++, Python, JavaScript**
 - 📧 **Email:** [limajannat1675@gmail.com](mailto:limajannat1675@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/jannatullima86](https://www.linkedin.com/in/jannatullima86)  
 - 🖤 **GitHub:** [github.com/JannatulLima9575](https://github.com/JannatulLima9575)
-
----
-
