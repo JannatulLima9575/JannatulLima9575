@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Jannatul Lima</h1>
 
 <p align="center">
-  💻 **Junior Web Developer** | 👩‍🎓 **CSE Student** <br/> 
+  💻 ***Junior Web Developer*** | 👩‍🎓 **CSE Student** <br/> 
   📍 Sylhet, Bangladesh | 🚀 Exploring **AI & Machine Learning**
 </p>
 
