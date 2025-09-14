@@ -5,8 +5,8 @@
 <h1 align="center">👋 Hi, I'm Jannatul Lima</h1>
 
 <p align="center">
-  💻 ***Junior Web Developer*** | 👩‍🎓 **CSE Student** <br/> 
-  📍 Sylhet, Bangladesh | 🚀 Exploring **AI & Machine Learning**
+  💻 Junior Web Developer | 👩‍🎓 CSE Student <br/> 
+  📍 Sylhet, Bangladesh | 🚀 Exploring AI & Machine Learning
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@
     <td width="50%">
       <h3>🧕 About Me</h3>
       <p>
-        I have completed a 4-year Diploma in **Computer Science and Engineering (CSE)** from **Sylhet Government Polytechnic Institute (SPI)**.  
-        Currently, I am pursuing my **BSc** in **CSE** at **Sylhet International University (SIU)**.  
-        I am a **Junior Web Developer** with a strong interest in **problem solving**.  
+        I have completed a 4-year Diploma in Computer Science and Engineering (CSE) from Sylhet Government Polytechnic Institute (SPI).  
+        Currently, I am pursuing my BSc in CSE at Sylhet International University (SIU).  
+        I am a Junior Web Developer with a strong interest in problem solving.  
         I enjoy learning new technologies and working on real-life projects.
       </p>
     </td>
@@ -38,7 +38,7 @@
 
 ## 🚀 What I’m Currently Doing
 
-- 🔭 Working on a **NeuroDevs Agency Project** using **React/Next.js** and **MERN**  
+- 🔭 Working on a **NeuroDevs Agency Project** using **React/Next.js** and **MERN**
 - 🌱 Learning **ML** with **Python** (1 month running) from **Phitron AI/ML** course  
 - 🎨 Improving **UI/UX** using **Figma**
 
@@ -99,7 +99,6 @@ Languages I use: **C, C++, Python, JavaScript**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical" />
 </p>
