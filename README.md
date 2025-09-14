@@ -39,7 +39,7 @@
 ## 🚀 What I’m Currently Doing
 
 - 🔭 Working on a **NeuroDevs Agency Project** using **React/Next.js** and **MERN**
-- 🌱 Learning **ML** with **Python** (1 month running) from **Phitron AI/ML** course  
+- 🌱 Learning **ML** with **Python** (1st month running) from **Phitron AI/ML** course  
 - 🎨 Improving **UI/UX** using **Figma**
 
 ---
@@ -96,17 +96,17 @@ Languages I use: **C, C++, Python, JavaScript**
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JannatulLima9575&theme=tokyonight" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical" height="180px"/>
+</div>
 
+<br/>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JannatulLima9575&theme=tokyonight" height="200px"/>
+</div>
 ---
 
 ## 📫 Let’s Connect
