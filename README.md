@@ -101,8 +101,3 @@ Languages I use: **C, C++, Python, JavaScript**
 </p>
 
 ---
-
-## 📫 Let’s Connect
-
-- 📧 **Email:** **limajannat1675@gmail.com**  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/jannatullima86
