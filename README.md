@@ -1,7 +1,5 @@
-<!-- ========================= HEADER SECTION ========================= -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jannatul+Lima!;Junior+Web+Developer;Frontend+%7C+MERN+Stack+%7C+AI+Learner;Welcome+to+my+GitHub+Profile!+💙">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jannatul+Lima!;Software+Developer;Frontend+%7C+MERN+Stack+%7C+AI+Learner;Welcome+to+my+GitHub+Profile!+💙">
 </h1>
 
 <p align="center">
@@ -20,14 +18,12 @@
 
 ---
 
-<!-- ========================= ABOUT ME ========================= -->
-
 ## 🧕 About Me
 <table><tr>
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
 I completed my **Diploma in Computer Science & Engineering** from  
-🎓 *Sylhet Government Polytechnic Institute (SPI)*  
+🎓 *Sylhet Polytechnic Institute (SPI)*  
 Currently studying **BSc in CSE** at  
 🎓 *Sylhet International University (SIU)*  
 
@@ -47,21 +43,16 @@ I enjoy building real-life projects that solve real problems.
 </td>
 </tr></table>
 
-
 ---
-
-<!-- ========================= CURRENT WORK ========================= -->
 
 ## 🚀 What I’m Doing Now
 - 🔭 Working on **NeuroDevs Agency Projects** (React/Next.js + MERN)
-- 🌱 Learning **AI & Machine Learning** (Python | Phitron)
+- 🌱 Learning **AI & Machine Learning**
 - 🖌️ Improving UI/UX using **Figma**
-- 📚 Solving problems in CF, VJudge
+- 📚 Solving problems in Codeforces, VJudge
 
 
 ---
-
-<!-- ========================= TECH STACK ========================= -->
 
 ## 🛠️ Tech Stack
 
@@ -105,7 +96,6 @@ I enjoy building real-life projects that solve real problems.
 
 ---
 
-<!-- ========================= CP ========================= -->
 
 ## 🧠 Competitive Programming
 I use **C, C++, Python, JavaScript** for problem-solving.
@@ -116,22 +106,18 @@ I use **C, C++, Python, JavaScript** for problem-solving.
 
 ---
 
-<!-- ========================= PROJECTS ========================= -->
 
 ## 🏆 Featured Projects
-> *(Add links when ready)*
 
 - 🛒 E-Commerce Web App (MERN)
-- 🍔 Online Food Delivery System (Django)
-- 🩺 Doctor Appointment System
+- 🍔 Local Food Waste Reduction Platform (MERN)
+- 🩺 Doctor Appointment System (MERN)
 - 📸 Photography Website (Tailwind)
 - 📝 Task Management App (React)
-- 🌙 Islamic Website (Tailwind + JS)
+- 🌙 Islamic Website (MERN)
 
 
 ---
-
-<!-- ========================= GITHUB STATS ========================= -->
 
 ## 📊 GitHub Stats
 
@@ -142,26 +128,6 @@ I use **C, C++, Python, JavaScript** for problem-solving.
 
 <p align="center">
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=JannatulLima9575&theme=tokyonight"/>
-</p>
-
----
-
-<!-- ========================= SNAKE ANIMATION ========================= -->
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JannatulLima9575/JannatulLima9575/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-<!-- ========================= CONTACT ========================= -->
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&style=for-the-badge&logoColor=white"/></a>
 </p>
 
 ---
