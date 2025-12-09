@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Jannatul Lima
+
 <p align="center">
   <img src="https://i.ibb.co/350WnJ0q/Github-cover.png" width="100%"/>
 </p>
@@ -15,15 +17,28 @@
 
 ---
 
-## 🧕 About Me I completed a 4-year Diploma in Computer Science & Engineering (CSE) from **Sylhet Government Polytechnic Institute (SPI)**. Currently, I am pursuing my **BSc in CSE** at **Sylhet International University (SIU)**. I love **web development**, **problem solving**, and learning modern technologies. Right now, I am exploring **Machine Learning** alongside frontend & backend development. <p align="center"> <img src="https://i.ibb.co/8LVT3qYT/Animation-1750842971292.gif" width="250px"/> <br/> <i>Coding is my happy place 😊</i> </p>
+## 🧕 About Me
+<table><tr>
+<td width="60%" valign="top">
+I completed a 4-year Diploma in **Computer Science & Engineering (CSE)** from **Sylhet Government Polytechnic Institute (SPI)**.<br/>
+Currently, I’m pursuing my **BSc in CSE** at **Sylhet International University (SIU)**.<br/><br/>
+I’m passionate about **web development**, **problem‑solving**, and learning modern technologies. Alongside frontend & backend development, I’m exploring **Machine Learning** to build intelligent systems.
+</td>
+<td width="40%" align="center">
+<img src="https://i.ibb.co/8LVT3qYT/Animation-1750842971292.gif" width="220px"/>
+<br/>
+<i>Coding is my happy place 😊</i>
+</td>
+</tr></table>
+ 😊</i>
+</p>
 
 ---
 
 ## 🚀 What I’m Currently Doing
-
 - 🔭 Working on **NeuroDevs Agency Project** (React/Next.js + MERN)
 - 🌱 Learning **AI/ML (Python)** from **Phitron**
-- 🎨 Improving UI/UX skills with **Figma**
+- 🎨 Improving my UI/UX skills with **Figma**
 
 ---
 
@@ -69,17 +84,15 @@
 ---
 
 ## 🧠 Competitive Programming
-
-I love solving algorithmic problems and improving logical thinking.  
+I enjoy solving algorithmic problems to strengthen logical thinking. 
 Languages I use: **C, C++, Python, JavaScript**
 
-- 🔗 **Codeforces:** https://codeforces.com/profile/roselune_1675  
+- 🔗 **Codeforces:** https://codeforces.com/profile/roselune_1675
 - 🔗 **VJudge:** https://vjudge.net/user/roselune_1675
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight&cache_seconds=7200"/>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=radical&cache_seconds=7200"/>
@@ -90,3 +103,5 @@ Languages I use: **C, C++, Python, JavaScript**
 </p>
 
 ---
+
+<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
