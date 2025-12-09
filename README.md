@@ -17,16 +17,26 @@
 
 ## 🧕 About Me
 
-I completed a 4-year Diploma in Computer Science & Engineering (CSE) from **Sylhet Government Polytechnic Institute (SPI)**.  
-Currently, I am pursuing my **BSc in CSE** at **Sylhet International University (SIU)**.  
-I love **web development**, **problem solving**, and learning modern technologies.  
-Right now, I am exploring **Machine Learning** alongside frontend & backend development.
+<table>
+  <tr>
+    <!-- Left Column (Text) -->
+    <td width="60%">
+      I completed a 4-year Diploma in Computer Science & Engineering (CSE) from 
+      <b>Sylhet Government Polytechnic Institute (SPI)</b>.<br/>
+      Currently, I am pursuing my <b>BSc in CSE</b> at 
+      <b>Sylhet International University (SIU)</b>.<br/><br/>
+      I love <b>web development</b>, <b>problem solving</b>, and exploring modern technologies.
+      Right now, I am learning <b>Machine Learning</b> along with frontend & backend development.
+      <br/><br/>
+      <i>Coding is my happy place 😊</i>
+    </td>
 
-<p align="center">
-  <img src="https://i.ibb.co/8LVT3qYT/Animation-1750842971292.gif" width="250px"/>
-  <br/>
-  <i>Coding is my happy place 😊</i>
-</p>
+    <!-- Right Column (Image) -->
+    <td align="center" width="40%">
+      <img src="https://i.ibb.co/8LVT3qYT/Animation-1750842971292.gif" width="250px"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
