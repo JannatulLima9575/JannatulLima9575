@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🌐 MERN Stack | 🎨 Frontend Developer | 🤖 AI/ML Learner <br/>
+  🌐 Web Developer | 🤖 AI/ML Learner <br/>
   📍 Sylhet, Bangladesh | 👩‍🎓 CSE Student
 </p>
 
@@ -23,9 +23,8 @@
 <td width="100%" valign="top">
 
 I completed my **Diploma in Computer Science & Engineering** from  
-🎓 *Sylhet Polytechnic Institute (SPI)*  
-Currently studying **BSc in CSE** at  
-🎓 *Sylhet International University (SIU)*  
+*Sylhet Polytechnic Institute (SPI)* Currently studying **BSc in CSE** at  
+*Sylhet International University (SIU)*  
 
 I'm passionate about:
 - 🌐 Web Development (Frontend + Backend)
