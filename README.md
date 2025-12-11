@@ -36,7 +36,7 @@ I enjoy building real-life projects that solve real problems.
 
 </td>
 <td width="100%" align="center">
-<img src="https://i.ibb.co/8LVT3qYT/Animation-1750842971292.gif" width="220px"/>
+<img src="https://i.ibb.co/8LVT3qYT/Animation-1750842971292.gif" width="280px"/>
 <br/>
 <i>"Coding is my comfort zone." 💙</i>
 </td>
@@ -92,9 +92,7 @@ I enjoy building real-life projects that solve real problems.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
 </p>
 
-
 ---
-
 
 ## 🧠 Competitive Programming
 I use **C, C++, Python, JavaScript** for problem-solving.
@@ -102,21 +100,8 @@ I use **C, C++, Python, JavaScript** for problem-solving.
 - 🔗 Codeforces: https://codeforces.com/profile/roselune_1675  
 - 🔗 VJudge: https://vjudge.net/user/roselune_1675  
 
-
 ---
 
-
-## 🏆 Featured Projects
-
-- 🛒 E-Commerce Web App (MERN)
-- 🍔 Local Food Waste Reduction Platform (MERN)
-- 🩺 Doctor Appointment System (MERN)
-- 📸 Photography Website (Tailwind)
-- 📝 Task Management App (React)
-- 🌙 Islamic Website (MERN)
-
-
----
 
 ## 📊 GitHub Stats
 
