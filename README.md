@@ -35,7 +35,7 @@ I'm passionate about:
 I enjoy building real-life projects that solve real problems.
 
 </td>
-<td width="40%" align="center">
+<td width="40%" align="right">
 <img src="https://i.ibb.co/8LVT3qYT/Animation-1750842971292.gif" width="220px"/>
 <br/>
 <i>"Coding is my comfort zone." 💙</i>
