@@ -45,7 +45,7 @@ I enjoy building real-life projects that solve real problems.
 ---
 
 ## 🚀 What I’m Doing Now
-- 🔭 Working on **Real project for Sazin Ltd.** (React/Next.js + MERN)
+- 🔭 Working on **Daily Market Price Tracker Platform** (React/Next.js/TypeScript + MERN)
 - 🌱 Learning **AI & Machine Learning**
 - 🖌️ Improving UI/UX using **Figma**
 - 📚 Solving problems in Codeforces, VJudge
