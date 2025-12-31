@@ -13,8 +13,7 @@
 </p>
 
 <p align="center">
-  🌐 Frontend Developer | 🤖 AI/ML Learner <br/>
-  📍 Sylhet, Bangladesh | 👩‍🎓 CSE Student
+  🌐 Software Engineer CSE Student of Sylhet Internatonal Univercity
 </p>
 
 <p align="center">
@@ -25,25 +24,41 @@
 
 ## 🧕 About Me
 
-<p align="center">
-  I completed my <b>Diploma in Computer Science & Engineering</b> from <br/>
-  <b>Sylhet Polytechnic Institute (SPI)</b> and am currently studying <br/>
-  <b>BSc in CSE</b> at <b>Sylhet International University (SIU)</b>.
+<div style="display:flex; flex-wrap:wrap; align-items:center; gap:30px;">
+
+<div style="flex:1; min-width:280px;">
+
+<p>
+I am <b>Jannatul Lima</b>, a passionate <b>Software Engineer</b> with strong experience in 
+<b>Frontend and MERN stack development</b>. I specialize in building 
+<b>clean, responsive, and user-friendly UI</b> while focusing on performance and maintainability.
 </p>
 
-<p align="center">
-  🔹 Web Development (Frontend + Backend)<br/>
-  🔹 Problem Solving & DSA<br/>
-  🔹 UI/UX & Modern Web Experiences
+<p>
+I have strong <b>problem-solving skills</b> with a solid foundation in 
+<b>Data Structures and Algorithms (DSA)</b>, and I enjoy solving logical challenges.
+Alongside web development, I am actively exploring <b>Machine Learning</b> to expand my technical skill set.
 </p>
 
-<p align="center">
+<p>
+I completed my <b>Diploma in Computer Science & Engineering</b>, where I built a strong base in 
+<b>DSA and problem solving</b>. Currently, I am pursuing my <b>BSc in CSE</b> with a focus on 
+<b>Artificial Intelligence & Machine Learning</b>, while continuing to grow as a web developer.
+</p>
+
+</div>
+
+<div style="flex:1; min-width:260px; text-align:center;">
   <img 
     src="https://i.ibb.co/8LVT3qYT/Animation-1750842971292.gif" 
+    alt="I love coding"
     style="max-width:280px; width:100%;"
-  /><br/>
-  <i>"Coding is my comfort zone." 💙</i>
-</p>
+  />
+  <br/>
+  <i>"I love coding." 💙</i>
+</div>
+
+</div>
 
 ---
 
