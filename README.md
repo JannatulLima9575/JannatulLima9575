@@ -24,20 +24,22 @@
 
 ## 🧕 About Me
 
-<div style="display:flex; flex-wrap:wrap; align-items:center; gap:30px;">
+<table width="100%">
+<tr>
 
-<div style="flex:1; min-width:280px;">
+<!-- LEFT SIDE : TEXT -->
+<td width="60%" valign="top">
 
 <p>
-I am <b>Jannatul Lima</b>, a passionate <b>Software Engineer</b> with strong experience in 
+I am <b>Jannatul Lima</b>, a <b>Software Engineer</b> with strong experience in 
 <b>Frontend and MERN stack development</b>. I specialize in building 
-<b>clean, responsive, and user-friendly UI</b> while focusing on performance and maintainability.
+<b>clean, responsive, and user-friendly UI</b> with a strong focus on performance and maintainability.
 </p>
 
 <p>
 I have strong <b>problem-solving skills</b> with a solid foundation in 
-<b>Data Structures and Algorithms (DSA)</b>, and I enjoy solving logical challenges.
-Alongside web development, I am actively exploring <b>Machine Learning</b> to expand my technical skill set.
+<b>Data Structures and Algorithms (DSA)</b>. Alongside web development, I am actively exploring 
+<b>Machine Learning</b> to expand my technical expertise.
 </p>
 
 <p>
@@ -46,19 +48,23 @@ I completed my <b>Diploma in Computer Science & Engineering</b>, where I built a
 <b>Artificial Intelligence & Machine Learning</b>, while continuing to grow as a web developer.
 </p>
 
-</div>
+</td>
 
-<div style="flex:1; min-width:260px; text-align:center;">
-  <img 
-    src="https://i.ibb.co/8LVT3qYT/Animation-1750842971292.gif" 
-    alt="I love coding"
-    style="max-width:280px; width:100%;"
-  />
-  <br/>
-  <i>"I love coding." 💙</i>
-</div>
+<!-- RIGHT SIDE : IMAGE -->
+<td width="40%" align="center">
 
-</div>
+<img 
+  src="https://i.ibb.co/8LVT3qYT/Animation-1750842971292.gif" 
+  alt="I love coding"
+  width="260"
+/>
+<br/>
+<i>"I love coding." 💙</i>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
