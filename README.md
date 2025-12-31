@@ -71,10 +71,9 @@ I completed my <b>Diploma in Computer Science & Engineering</b> at
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,ts,nodejs,express,mongodb,firebase,mysql,git,github,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,ts,nodejs,express,mongodb,firebase,mysql,git,github,vercel,netlify,figma" height="50"/>
 </p>
 
----
 
 ## 🧠 Competitive Programming
 - 🔗 Codeforces: https://codeforces.com/profile/roselune_1675  
