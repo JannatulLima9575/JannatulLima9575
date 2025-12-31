@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JannatulLima9575&label=Views&style=for-the-badge&color=0A0A0A"/>
-  <img src="https://img.shields.io/github/followers/JannatulLima9575?label=Followers&style=for-the-badge&color=0A0A0A"/>
-  <img src="https://img.shields.io/github/stars/JannatulLima9575?label=Stars&style=for-the-badge&color=0A0A0A"/>
+  <img src="https://komarev.com/ghpvc/?username=JannatulLima9575&label=Views&style=for-the-badge&color=1E40AF"/>
+  <img src="https://img.shields.io/github/followers/JannatulLima9575?label=Followers&style=for-the-badge&color=1E40AF"/>
+  <img src="https://img.shields.io/github/stars/JannatulLima9575?label=Stars&style=for-the-badge&color=1E40AF"/>
 </p>
 
 ---
