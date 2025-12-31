@@ -82,6 +82,17 @@ I completed my <b>Diploma in Computer Science & Engineering</b> at
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JannatulLima9575&label=Profile%20Views&color=0A0A0A&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/JannatulLima9575?label=Followers&style=for-the-badge&color=0A0A0A"/>
+  <img src="https://img.shields.io/github/stars/JannatulLima9575?label=Stars&style=for-the-badge&color=0A0A0A"/>
+</p>
+
+
 ## 🧠 Competitive Programming & Problem Solving
 
 I actively practice **Data Structures & Algorithms (DSA)** through competitive programming platforms to strengthen problem-solving skills.
