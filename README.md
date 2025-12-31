@@ -91,7 +91,14 @@ I completed my <b>Diploma in Computer Science & Engineering</b> at
   <img src="https://img.shields.io/github/followers/JannatulLima9575?style=flat-square&color=black"/>
 </p>
 
+---
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JannatulLima9575&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JannatulLima9575&theme=github_dark" />
+</p>
+
+---
 
 ## 🧠 Competitive Programming & Problem Solving
 
