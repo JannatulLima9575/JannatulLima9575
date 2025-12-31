@@ -33,7 +33,7 @@
 <p>
 I am <b>Jannatul Lima</b>, a <b>Software Engineer</b> with strong experience in 
 <b>Frontend and MERN stack development</b>. I specialize in building 
-<b>clean, responsive, and user-friendly UI</b> with a strong focus on performance and maintainability.
+<b>clean, responsive, and user-friendly UI</b>, with a strong focus on performance and maintainability.
 </p>
 
 <p>
@@ -43,8 +43,10 @@ I have strong <b>problem-solving skills</b> with a solid foundation in
 </p>
 
 <p>
-I completed my <b>Diploma in Computer Science & Engineering</b>, where I built a strong base in 
-<b>DSA and problem solving</b>. Currently, I am pursuing my <b>BSc in CSE</b> with a focus on 
+I completed my <b>Diploma in Computer Science & Engineering</b> at 
+<b>Sylhet Polytechnic Institute (SPI)</b>, where I built a strong foundation in 
+<b>DSA and problem solving</b>. Currently, I am pursuing my <b>BSc in CSE</b> at 
+<b>Sylhet International University (SIU)</b>, with a focus on 
 <b>Artificial Intelligence & Machine Learning</b>, while continuing to grow as a web developer.
 </p>
 
