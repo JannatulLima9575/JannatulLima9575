@@ -77,7 +77,7 @@ I completed my <b>Diploma in Computer Science & Engineering</b> at
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,ts,javascript,nodejs,express,mongodb,firebase,mysql,git,github,vercel,netlify,figma,c,cpp,python,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,ts,javascript,nodejs,express,mongodb,firebase,mysql,git,github,vercel,netlify,figma,c,cpp,python,java&size=60" />
 </p>
 
 ---
