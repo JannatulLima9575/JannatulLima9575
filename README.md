@@ -71,7 +71,7 @@ I completed my <b>Diploma in Computer Science & Engineering</b> at
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=000000&width=900&lines=TailwindCSS+•+React+•+Next.js+•+TypeScript+•+Node.js+•+MongoDB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=000000&width=900&lines=TailwindCSS+•+React+•+Next.js+•+TypeScript+•+Node.js+•+Express.js+•+MongoDB+•+MySql" />
 </p>
 
 ---
