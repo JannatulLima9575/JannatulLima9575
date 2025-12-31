@@ -68,15 +68,6 @@ I completed my <b>Diploma in Computer Science & Engineering</b> at
 </tr>
 </table>
 
----
-
-## 🚀 What I’m Doing Now
-- 🔭 Building real-world web applications
-- 🖌️ Improving UI/UX using Figma
-- 📚 Solving problems on Codeforces & VJudge
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
