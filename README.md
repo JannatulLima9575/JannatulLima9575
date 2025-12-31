@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🌐 Software Engineer CSE Student of Sylhet Internatonal Univercity
+  🌐 Software Engineer | CSE Student | Frontend & MERN Stack Developer
 </p>
 
 <p align="center">
