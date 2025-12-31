@@ -82,26 +82,26 @@ I completed my <b>Diploma in Computer Science & Engineering</b> at
 
 ---
 
-## 🧠 Competitive Programming
-- 🔗 Codeforces: https://codeforces.com/profile/roselune_1675  
-- 🔗 VJudge: https://vjudge.net/user/roselune_1675  
+## 🧠 Competitive Programming & Problem Solving
+
+I actively practice **Data Structures & Algorithms (DSA)** through competitive programming platforms to strengthen problem-solving skills.
+
+- 🔹 **Codeforces:** [roselune_1675](https://codeforces.com/profile/roselune_1675)  
+- 🔹 **VJudge:** [roselune_1675](https://vjudge.net/user/roselune_1675)  
+
+> 💡 Highlights: Regularly solve challenges to improve efficiency and algorithmic thinking.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight"
-    style="max-width:100%;"
-  />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=JannatulLima9575&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulLima9575&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JannatulLima9575&theme=tokyonight"
-    style="max-width:100%;"
-  />
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=JannatulLima9575&theme=tokyonight" />
 </p>
 
 <p align="center">
