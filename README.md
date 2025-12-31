@@ -79,19 +79,8 @@ I completed my <b>Diploma in Computer Science & Engineering</b> at
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,ts" />
-</p>
-
-### 🧩 Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
-</p>
-
-### 🔧 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,ts,nodejs,express,mongodb,firebase,mysql,git,github,vercel,netlify,figma" />
 </p>
 
 ---
