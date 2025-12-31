@@ -68,12 +68,13 @@ I completed my <b>Diploma in Computer Science & Engineering</b> at
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,ts,nodejs,express,mongodb,firebase,mysql,git,github,vercel,netlify,figma" height="50"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=61DAFB&width=600&lines=React+•+Next.js+•+TypeScript+•+Node.js+•+MongoDB" />
 </p>
 
+---
 
 ## 🧠 Competitive Programming
 - 🔗 Codeforces: https://codeforces.com/profile/roselune_1675  
