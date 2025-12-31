@@ -25,9 +25,6 @@
 
   <!-- Stars -->
   <img src="https://img.shields.io/github/stars/JannatulLima9575?label=Stars&style=for-the-badge&color=FACC15&labelColor=FEF9C3"/>
-
-  <!-- Repositories -->
-  <img src="https://img.shields.io/github/repo-count/JannatulLima9575?label=Repos&style=for-the-badge&color=22C55E&labelColor=DCFCE7"/>
 </p>
 
 ---
