@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/github/stars/JannatulLima9575?label=Stars&style=for-the-badge&color=FACC15&labelColor=FEF9C3"/>
 
   <!-- Repositories -->
-  <img src="https://img.shields.io/badge/Public%20Repos-📦-22C55E?style=for-the-badge&labelColor=DCFCE7"/>
+  <img src="https://img.shields.io/github/repo-count/JannatulLima9575?label=Repos&style=for-the-badge&color=22C55E&labelColor=DCFCE7"/>
 </p>
 
 ---
@@ -94,11 +94,6 @@ I completed my <b>Diploma in Computer Science & Engineering</b> at
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JannatulLima9575&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JannatulLima9575&style=flat-square&color=black"/>
-  <img src="https://img.shields.io/github/followers/JannatulLima9575?style=flat-square&color=black"/>
 </p>
 
 ---
