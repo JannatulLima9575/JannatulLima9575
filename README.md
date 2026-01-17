@@ -59,7 +59,6 @@ I completed my <b>Diploma in Computer Science & Engineering</b> at
 
 </td>
 
-<!-- RIGHT SIDE : IMAGE -->
 <td width="40%" align="center">
 
 <img 
