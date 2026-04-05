@@ -116,6 +116,10 @@ I actively practice **Data Structures & Algorithms (DSA)** through competitive p
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JannatulLima9575&theme=react-dark)
 
+<p align="center">
+  <img src="https://github.com/JannatulLima9575/JannatulLima9575/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
